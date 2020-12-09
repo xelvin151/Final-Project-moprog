@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_prod">COVID-19 Live Tracking</string>
+    <string name="app_name_staging">COVID-19 Live Tracking - Staging</string>
+    <string name="corona_virus_definition">Apa itu CoronaVirus(COVID-19)</string>
+    <string name="about">Tentang</string>
+    <string name="coronavirus_definition">https://hellosehat.com/kesehatan/penyakit/coronavirus-adalah/</string>
+    <string name="coronavirus_prevention">https://hellosehat.com/kesehatan/penyakit/coronavirus-adalah/#h-pencegahan</string>
+    <string name="coronavirusapplogo">coronaVirusAppLogo</string>
+    <string name="corona_live_tracking">CoronaVirus(COVID-19) Live Tracking</string>
+    <string name="last_update">Update terkini: </string>
+    <string name="title_activity_preference">Pengaturan</string>
+
+    <!-- Preference Titles -->
+    <string name="sync_header">Notifikasi</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Kasih tau saya ya kalo ada yang baru</string>
+    <string name="pref_key_check">pref_key_check</string>
+    <string name="about_message">Corona Virus live Tracking Map</string>
+    <string name="refresh_timeout">Kecepetan mau kemana, sabar.</string>
+    <string name="network_problem">Internet anda bermasalah</string>
+    <string name="pref_key_datasource" translatable="false">pref_key_datasource</string>
+    <string name="pref_key_theme" translatable="false">pref_key_theme</string>
+    <string name="recover">Sembuh</string>
+    <string name="confirm">Terinfeksi</string>
+    <string name="recovered">Sembuh</string>
+    <string name="death">Korban</string>
+    <string name="fetch">Fetch…</string>
+    <string name="infected">Terinfeksi</string>
+    <string name="pull_me_up">Tarik ke atas</string>
+    <string name="country">Negara</string>
+    <string name="enable_push_notif">Aktifkan notifikasi</string>
+    <string name="what_is">Apa itu COVID-19?</string>
+    <string name="covid_prevent">COVID-19 Pencegahan</string>
+    <string name="click_to_show">Daftar sumber data</string>
+    <string name="data_source">Sumber data</string>
+    <string name="data_provided">Data diperoleh dari </string>
+    <string name="other">Lain-lain</string>
+    <string name="select_data_source">Pilih sumber data</string>
+    <string name="change_language">Change Language</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="info_recovered">Sembuh: </string>
+    <string name="info_death">Meninggal: </string>
+    <string name="info_active">Aktif: </string>
+    <string name="info_confirm">Terinfeksi: </string>
+
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_graph">Graph</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string-array name="pref_auto_lock_labels">
+<!--        <item>Channel New Asia</item>-->
+        <item>Johns Hopkins CSSE</item>
+        <item>ArcGIS-NCOV</item>
+        <item>Worldometers</item>
+    </string-array>
+
+    <string-array name="pref_auto_lock_values">
+<!--        <item>0</item>-->
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+
+    <string-array name="pref_auto_lock_labels_theme">
+        <item>Day</item>
+        <item>Night</item>
+    </string-array>
+
+    <string-array name="pref_auto_lock_values_theme">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <!-- Messages Preferences -->
+</resources>
